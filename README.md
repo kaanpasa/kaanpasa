@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack PHP Web Developer
 ----------------------------
 
-I am computer engineer that has passion to infformation technologies, especially on web development. I've graduated from Karabük University's Computer Engineering departmant. I am trying to design my career path on PHP web development.
+I am computer engineer that has passion to information technologies, especially on web development. I've graduated from Karabük University's Computer Engineering departmant. I am trying to design my career path on web development with PHP.
 
 * 🌍  I'm based in Kırklareli, Turkey
 * ✉️  You can contact me at [kaanpasa@protonmail.com](mailto:kaanpasa@protonmail.com)
