@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-I am computer engineer that has passion to information technologies, especially on web development. I've graduated from Karabük University's Computer Engineering departmant. I am trying to design my career path on PHP web development.
+I am computer engineer that has passion to information technologies, especially on web development. I've graduated from Karabük University's Computer Engineering department. I am trying to design my career path on PHP web development.
 
 
 ## 🌐 Socials:
